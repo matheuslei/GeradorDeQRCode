@@ -1,5 +1,6 @@
 # GeradorDeQRCode
 Projeto para gerar QRCode utilizando API, HTML, CSS e Javascript.
+
 API: https://goqr.me/api/
 
 Teste aqui: https://matheuslei.github.io/GeradorDeQRCode/
